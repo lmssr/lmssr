@@ -6,9 +6,9 @@
   <code>Digital Craftsman (Developer/Artist/Designer)</code>
 </p>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=30802F&center=true&vCenter=true&width=435&lines=Full-stack+web+and+app+developer;Experienced+UI%2FUX+Designer;3%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -94,7 +94,12 @@ You can see some of my work here on GitHub, or on my personnal website: https://
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-#
+---
+
+[![Spotify](https://spotify-now-playing-bvaw.vercel.app/api/spotify)](https://open.spotify.com/user/111971137
+)
+
+---
 
 <details>
  <summary><h3>👨‍💻 Luc's Coding Journey</h3></summary>
