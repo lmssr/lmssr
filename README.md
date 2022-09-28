@@ -51,6 +51,9 @@
   <a href="https://github.com/lmssr?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lmssr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
+  <a href="https://komarev.com/ghpvc/?username=lmssr&color=blueviolet&style=for-the-badge&label=VISITORS">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=lmssr&color=blueviolet&style=for-the-badge&label=VISITORS"/>
+  </a>
   
   <!-- <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/>
