@@ -93,7 +93,17 @@ You can see some of my work here on GitHub, or on my personnal website: https://
 
 ### 📊 Stats
 
-![Luc's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmssr&show_icons=true&theme=gruvbox)
+<!-- ![Luc's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmssr&show_icons=true&theme=gruvbox) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmssr&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Luc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lmssr&show_icons=true&theme=bear&hide_border=true&icon_color=F8D866" height="192px"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Luc's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmssr&langs_count=8&layout=compact&theme=bear&hide_border=truec&hide=Jupyter%20Notebook" height="192px"/>
+</a>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
@@ -101,9 +111,6 @@ You can see some of my work here on GitHub, or on my personnal website: https://
 
 [![Spotify](https://spotify-now-playing-bvaw.vercel.app/api/spotify)](https://open.spotify.com/user/111971137
 )
-
-
-
 
 ---
 
