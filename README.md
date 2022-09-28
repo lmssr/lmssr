@@ -99,10 +99,15 @@ You can see some of my work here on GitHub, or on my personnal website: https://
 [![Spotify](https://spotify-now-playing-bvaw.vercel.app/api/spotify)](https://open.spotify.com/user/111971137
 )
 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5vCCef22LWdJACuDhbyRQ5?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 ---
 
 <details>
  <summary><h3>👨‍💻 Luc's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+   I started my coding journey as a biology student with a passion for tech and coding. I tried to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself web development with a dream to build my own app. A desire that bring me to Le Wagon Montreal to learn and discover new things and new people. 
+Today I'm a freelance full-stack developer on a perpetual adventure to learn new things, develop my skills and help as much people as I can on my way. 
+If you like my work, want to reach me, or simply want to say "Hi", don't hesitate to write me a message. 
 
 [website]: https://lucmosser.com
