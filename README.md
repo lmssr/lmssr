@@ -93,15 +93,26 @@ You can see some of my work here on GitHub, or on my personnal website: https://
 
 ### 📊 Stats
 
+
+
 <!-- ![Luc's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmssr&show_icons=true&theme=gruvbox) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmssr&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Luc's streak" src="https://streak-stats.demolab.com/?user=lmssr&theme=bear&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Luc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lmssr&show_icons=true&theme=bear&hide_border=true&icon_color=F8D866" height="192px"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Luc's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmssr&langs_count=8&layout=compact&theme=bear&hide_border=truec&hide=Jupyter%20Notebook" height="192px"/>
 </a>
+</p>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
